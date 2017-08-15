@@ -24,7 +24,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.get('/eat', function(req, res){
 
 
-    axios.get("https://api.yelp.com/v3/businesses/search?location=chicago&term=restaurants" +  {headers: {'Authorization': 'Bearer ' + process.env.TOKEN}} )
+    axios.get("https://api.yelp.com/v3/businesses/search?location=chicago&term=restaurants", {headers: {'Authorization': 'Bearer ' + process.env.TOKEN}} )
 
     .then(function(response){
         console.log(response)
