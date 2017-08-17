@@ -31,7 +31,7 @@ In terminal, go into server folder and run below command to get the server runni
 * JavaScript
 * Yelp API
 
-### Link to Hosted App
+### Link To Hosted App
 
 * [FRESH](inserturl)
 * Try it on your iPhone here:
@@ -46,7 +46,7 @@ Wireframes located in 'Planning' folder of frontend github file [here](https://g
 
 See project planning on Trello [here](https://trello.com/b/9If7QNtc/ga-project-4).
 
-### To be Completed
+### To Be Completed
 
 * Create ability for suer to login via OpenTable or Facebook and share restaurants with friends
 * Create user authentication and login capability
