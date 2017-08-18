@@ -31,11 +31,6 @@ In terminal, go into server folder and run below command to get the server runni
 * JavaScript
 * Yelp API
 
-### Link To Hosted App
-
-* [FRESH](inserturl)
-* Try it on your iPhone here:
-
 ### Other Notes
 
 * When viewing final page in browser and clicking on 'reviews' or 'map', a new window in browser will open. When user goes back to application the questions will start over.
@@ -46,7 +41,7 @@ Wireframes located in 'Planning' folder of frontend github file [here](https://g
 
 See project planning on Trello [here](https://trello.com/b/9If7QNtc/ga-project-4).
 
-### To Be Completed
+### To be Completed
 
 * Create ability for suer to login via OpenTable or Facebook and share restaurants with friends
 * Create user authentication and login capability
